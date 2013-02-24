@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace mark.net.Account
+namespace mark.net
 {
 
 
-    public partial class ChangePasswordSuccess
+    public partial class Default
     {
     }
 }
